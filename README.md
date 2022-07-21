@@ -15,13 +15,13 @@ $myAbilities = new Life\Abilities(
     ide: ['VSCode', 'Notepad++'],
     frameworks: ['Jquery', 'Bootstrap', 'Laravel'],
     database: ['SQLite', 'Redis', 'Memcached', 'PostgreSQL', 'MySql'],
-    knowledge:  [
+    knowledge:  [   
                     'DNS', 'Debian', 'WSL2', 'Git', 'Gitlab CI/CD', 'Markdown',
                     'CentOS', 'Rest', 'OSPF', 'BGP', 'MPLS', 'VLAN', 'Firewall',
                     'Docker/Docker Compose', 'Websocket', 'Ansible', 'Vagrant',  
                     'Zsh', 'Nginx', 'PHP-FPM', 'Jekyll', 'Memcached', 'Maillhog',
-                    'Ubuntu'
-    ]
+                    'Ubuntu', 'Github Actions'
+                ]
 );
 
 $dev = new Occupation\Developer(person: $me, abilities: $myAbilities);
@@ -52,4 +52,4 @@ I'm Maicol 👨🏻‍💻, a 31 years old Web Developer / Network Admin from Br
 - 💽 SQL
     - I've worked with some relational database like Postgres, Mysql, SQL Server, and again... in my point of view, to know SQL it is really important to any programmer nowadays.
 
-I'm sorry about my english, is not my native language and i've been work to improve it 😅.
+I'm sorry about my english, is not my native language and i've been work to improve it 😅... then could you please correct me if I make any grammatical mistakes? thanks 🙏.
