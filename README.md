@@ -1,3 +1,37 @@
+```php
+$me = new Person(
+    name:  'Maicol Kaiser Oliveira',
+    email: 'maicol.oliveira@paygo-consult.com.br',
+    age:  31
+);
+
+$me->setStatus(new Life\Status(
+    learning: ['Clean Architecture', 'Object Calisthenics', 'Clean Code'],
+    objectives: ['Improve my english', 'Cloud', 'Functional Programming']
+));
+
+$myAbilities = new Life\Abilities(
+    languages:  ['HTML/CSS', 'PHP', 'Python', 'Shell', 'Javascript'],
+    ide: ['VSCode', 'Notepad++'],
+    frameworks: ['Jquery', 'Bootstrap', 'Laravel'],
+    database: ['SQLite', 'Redis', 'Memcached', 'PostgreSQL', 'MySql'],
+    knowledge:  [
+                    'DNS', 'Debian', 'WSL2', 'Git', 'Gitlab CI/CD', 'Markdown',
+                    'CentOS', 'Rest', 'OSPF', 'BGP', 'MPLS', 'VLAN', 'Firewall',
+                    'Docker/Docker Compose', 'Websocket', 'Ansible'
+                    'Vagrant',  'Zsh', 'Nginx', 'PHP-FPM', 'Jekyll', 'Memcached',
+                    'Maillhog',  'Ubuntu'
+    ]
+);
+
+$dev = new Occupation\Developer(person: $me, abilities: $myAbilities);
+
+while($dev->hasCoffee())  
+{
+  $dev->code();
+}
+```
+
 ### Hi there 👋
 ---
 I'm Maicol 👨🏻‍💻, a 31 years old Web Developer / Network Admin from Brazil.
