@@ -18,9 +18,9 @@ $myAbilities = new Life\Abilities(
     knowledge:  [
                     'DNS', 'Debian', 'WSL2', 'Git', 'Gitlab CI/CD', 'Markdown',
                     'CentOS', 'Rest', 'OSPF', 'BGP', 'MPLS', 'VLAN', 'Firewall',
-                    'Docker/Docker Compose', 'Websocket', 'Ansible'
-                    'Vagrant',  'Zsh', 'Nginx', 'PHP-FPM', 'Jekyll', 'Memcached',
-                    'Maillhog',  'Ubuntu'
+                    'Docker/Docker Compose', 'Websocket', 'Ansible', 'Vagrant',  
+                    'Zsh', 'Nginx', 'PHP-FPM', 'Jekyll', 'Memcached', 'Maillhog',
+                    'Ubuntu'
     ]
 );
 
