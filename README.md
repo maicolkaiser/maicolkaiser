@@ -39,10 +39,7 @@ I'm Maicol 👨🏻‍💻, a 31 years old Web Developer / Network Admin from Br
 - 🔭 I’m currently working on [C6 Bank](https://c6bank.com.br)
 - 🌱 I’m currently learning [Design patterns](https://refactoring.guru/pt-br/design-patterns)
 - 📫 How to reach me: 
-    - [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://linkedin.com/in/maicolkaiseroliveira)
-    - [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/maicolvk/)
-    - [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/maicolvaka)
-    - <a href="mailto:maicol.oliveira@paygo-consult.com.br"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
+    - [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://linkedin.com/in/maicolkaiseroliveira) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/maicolvk/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/maicolvaka) <a href="mailto:maicol.oliveira@paygo-consult.com.br"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
 
     
 
