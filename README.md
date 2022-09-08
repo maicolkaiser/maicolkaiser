@@ -2,7 +2,7 @@
 $me = new Person(
     name:  'Maicol Kaiser Oliveira',
     email: 'maicol.oliveira@paygo-consult.com.br',
-    age:  31
+    age:  32
 );
 
 $me->setStatus(new Life\Status(
@@ -34,7 +34,7 @@ while($dev->hasCoffee())
 
 ### Hi there 👋
 ---
-I'm Maicol 👨🏻‍💻, a 31 years old Web Developer / Network Admin from Brazil.
+I'm Maicol 👨🏻‍💻, a 32 years old Web Developer / Network Admin from Brazil.
 
 - 🔭 I’m currently working on [C6 Bank](https://c6bank.com.br) as Outsourcing, but i also work for [Deliver IT](http://deliverit.com.br/).
 - 🌱 I’m currently learning [Design patterns](https://refactoring.guru/pt-br/design-patterns)
