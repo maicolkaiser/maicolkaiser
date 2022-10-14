@@ -6,21 +6,21 @@ $me = new Person(
 );
 
 $me->setStatus(new Life\Status(
-    learning: ['Clean Architecture', 'Object Calisthenics', 'Clean Code'],
+    learning: ['Clean Architecture', 'Object Calisthenics', 'Clean Code', 'Tests', 'Domain Driven Design'],
     objectives: ['Improve my english', 'Cloud', 'Functional Programming']
 ));
 
 $myAbilities = new Life\Abilities(
     languages:  ['HTML/CSS', 'PHP', 'Python', 'Shell', 'Javascript'],
-    ide: ['VSCode', 'Notepad++'],
-    frameworks: ['Jquery', 'Bootstrap', 'Laravel'],
-    database: ['SQLite', 'Redis', 'Memcached', 'PostgreSQL', 'MySql'],
+    ide: ['VSCode', 'PHPStorm'],
+    frameworks: ['Jquery', 'Bootstrap', 'Laravel', 'CodeIgniter'],
+    database: ['SQLite', 'Redis', 'Memcached', 'PostgreSQL', 'MySql', 'Mssql'],
     knowledge:  [   
                     'DNS', 'Debian', 'WSL2', 'Git', 'Gitlab CI/CD', 'Markdown',
                     'CentOS', 'Rest', 'OSPF', 'BGP', 'MPLS', 'VLAN', 'Firewall',
                     'Docker/Docker Compose', 'Websocket', 'Ansible', 'Vagrant',  
                     'Zsh', 'Nginx', 'PHP-FPM', 'Jekyll', 'Memcached', 'Maillhog',
-                    'Ubuntu', 'Github Actions'
+                    'Ubuntu', 'Github Actions', 'Refactoring'
                 ]
 );
 
